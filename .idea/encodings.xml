@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BIO_mark/data/word_dict.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gen_dict/data_set/proprietary_entity.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gen_dict/result/word_dict.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/subway_data_process/data/400.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/yao/data/data.txt" charset="GBK" />
+  </component>
+</project>

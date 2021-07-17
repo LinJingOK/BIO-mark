@@ -1,0 +1,267 @@
+给水 properNoun
+ 排水金属管道 constructionElement
+ 防止 properNoun
+ 杂散电流腐蚀 properNoun
+ 措施 constructionElement
+车辆基地 spaceORlocation
+ 室外消火栓 constructionElement
+ 间距 attribute
+ 不应大于120m attribute
+ 洒水栓 constructionElement
+ 间距 attribute
+ 不应大于80m attribute
+室外给排水 properNoun
+ 消防管道 workingAchievement
+ 穿越 properNoun
+ 车辆基地 spaceORlocation
+ 轨道 spaceORlocation
+ 防护套管 constructionElement
+ 综合管沟 properNoun
+车辆基地 spaceORlocation
+ 停车列检库 building
+ 定修库 spaceORlocation
+ 试车线 spaceORlocation
+ 电缆沟 constructionElement
+ 局部低洼处 spaceORlocation
+ 排水设施 constructionElement
+生产 properNoun
+ 生活 properNoun
+ 给水设备 constructionElement
+ 车站控制室 spaceORlocation
+ 显示 properNoun
+ 运行 properNoun
+ 手/自动 properNoun
+ 故障 properNoun
+ 状态信息 properNoun
+桥墩抗震设计 workingAchievement
+ 盖梁 constructionElement
+ 结点 properNoun
+ 基础 properNoun
+ 能力保护构件 properNoun
+ 能力保护原则 workingAchievement
+桥面 spaceORlocation
+ 防水层 spaceORlocation
+ 梁缝处 spaceORlocation
+ 伸缩缝 spaceORlocation
+ 伸缩缝 spaceORlocation
+ 梁部 spaceORlocation
+ 自由伸缩 attribute
+ 桥面水渗漏 properNoun
+箱形结构 constructionElement
+ 进入 properNoun
+ 箱内检查 properNoun
+ 孔道 constructionElement
+ 箱梁腹板 constructionElement
+ 适当数量 attribute
+ 直径 attribute
+ 100mm attribute
+ 通风孔 constructionElement
+墩柱顶面 spaceORlocation
+ 更换支座 properNoun
+ 顶梁 constructionElement
+ 位置 spaceORlocation
+ 3％ attribute
+ 排水坡 constructionElement
+岛式车站 building
+ 独柱式带长悬臂“桥-建”组合结构体系 constructionElement
+地铁线路 properNoun
+ 全封闭式 attribute
+ 高密度组织运行 attribute
+ 系统设计 properNoun
+ 远期最大能力 attribute
+ 行车密度 attribute
+ 30对/h attribute
+ 列车 constructionElement
+ 要求 workingAchievement
+地铁工程 properNoun
+ 安防设施 constructionElement
+ 安防设施 constructionElement
+ 设计 properNoun
+ 本规范的有关规定 workingAchievement
+ 安全检查设备 constructionElement
+ 接口 constructionElement
+ 监控系统 constructionElement
+ 危险品处理设施 constructionElement
+ 相关用房 building
+地铁列车 constructionElement
+ 安全防护系统 constructionElement
+ 监控 properNoun
+ 运行 properNoun
+地铁工程设计 properNoun
+ 安全可靠 attribute
+ 功能合理 attribute
+ 经济适用 attribute
+ 节能环保 attribute
+ 技术先进 attribute
+ 制定 properNoun
+ 本规范 workingAchievement
+地铁 building
+ 城市客运量大 attribute
+地铁工程设计 properNoun
+ 政府主管部门批准 workingAchievement
+ 城市总体规划 workingAchievement
+ 城市轨道交通线网规划 workingAchievement
+ 近期建设规划 workingAchievement
+ 城市综合交通规划 properNoun
+ 协调 properNoun
+地铁设计 workingAchievement
+ 科技创新 properNoun
+ 节约资源 attribute
+ 集约化建设 attribute
+地铁线路 properNoun
+ 1435mm标准轨距 attribute
+ 正线 spaceORlocation
+ 右侧行车 attribute
+ 双线线路 attribute
+地铁工程设计 properNoun
+ 线路功能定位 properNoun
+ 服务水平 attribute
+ 系统运能 attribute
+ 线路走向 attribute
+ 起讫点 attribute
+ 车辆基地选址 properNoun
+ 资源共享 attribute
+ 远景线网规划 workingAchievement
+ 确定 properNoun
+ 政府主管部门批准 workingAchievement
+ 文件 properNoun
+地铁各线路 properNoun
+ 建设时序 attribute
+ 线路设计长度 attribute
+ 城市形态 attribute
+ 规模 attribute
+ 客流分布状况 attribute
+ 发展需求 attribute
+ 技术经济合理原则 workingAchievement
+ 政府主编部门 workingAchievement
+ 批准 properNoun
+车辆基地 spaceORlocation
+ 停车场 spaceORlocation
+ 联络线 spaceORlocation
+ 控制中心 building
+ 主变电所 building
+ 线网规划 workingAchievement
+ 建设时序 attribute
+ 统筹布设 properNoun
+配线 constructionElement
+ 设置 properNoun
+ 线路运营 properNoun
+ 管理 properNoun
+ 安全要求 workingAchievement
+ 工程条件 attribute
+系统设计能力 properNoun
+ 相应年限设计运输能力 attribute
+ 需要 properNoun
+ 系统设计 properNoun
+ 远期最大能力 attribute
+ 行车密度 attribute
+ 不小于30对/h attribute
+ 要求 attribute
+轨道梁简支 constructionElement
+ 车站结构横梁 constructionElement
+ 本规范第10．4节 workingAchievement
+ 支座 constructionElement
+高架车站 constructionElement
+ 轨道梁 constructionElement
+ 支承结构 constructionElement
+ 钢结构 properNoun
+车站设计 constructionElement
+ 系统功能要求 workingAchievement
+ 布置 properNoun
+ 设备 constructionElement
+ 管理用房 building
+ 标准化 attribute
+ 模块化 attribute
+ 集约化 attribute
+ 设计 properNoun
+地下车站 building
+ 土建工程 properNoun
+ 分期建设 properNoun
+ 地面 spaceORlocation
+ 高架车站 building
+ 地面建筑 building
+ 分期建设 properNoun
+车站出入口附近 spaceORlocation
+ 需要 properNoun
+ 非机动车 properNoun
+ 机动车 properNoun
+ 停放场地 building
+隧道内 spaceORlocation
+ 空气 attribute
+ 压力变化值 attribute
+ 700Pa attribute
+ 压力变化率 attribute
+ 不得大于 attribute
+ 415Pa/s attribute
+排除余热 properNoun
+ 风量 attribute
+ 隧道内 spaceORlocation
+ 散热量 attribute
+ 地层周围土壤 spaceORlocation
+ 传热量 attribute
+地下车站公共区 spaceORlocation
+ 冬季 attribute
+ 室外空气计算温度 attribute
+ 近20年最冷月月平均温度 attribute
+ 平均值 attribute
+地下车站公共区 spaceORlocation
+ 二氧化碳 properNoun
+ 日平均浓度 attribute
+ 1．5‰ attribute
+地下车站公共区 spaceORlocation
+ 空气 properNoun
+ 可吸入颗粒物 properNoun
+ 日平均浓度 attribute
+ 0．25mg/m3 attribute
+售、检票方式 properNoun
+ 具体情况 attribute
+ 人工式 attribute
+ 半自动或自动式 attribute
+ 分期实施 properNoun
+ 预留设置条件 properNoun
+站台 attribute
+ 计算长度 attribute
+ 车站结构立柱 constructionElement
+ 墙等 constructionElement
+ 站台边缘 spaceORlocation
+ 距离 attribute
+ 限界要求 attribute
+站台 spaceORlocation
+ 站台门 constructionElement
+ 站台边缘 spaceORlocation
+ 内1m范围 attribute
+ 站台地面装饰层 spaceORlocation
+ 绝缘处理 properNoun
+付费区 spaceORlocation
+ 非付费区 spaceORlocation
+ 分隔 attribute
+ 不低于1．1m attribute
+ 可透视栅栏 constructionElement
+ 疏散方向 attribute
+ 平开栅栏门 workingAchievement
+车站公共区 spaceORlocation
+ 设置 properNoun
+ 广告 properNoun
+ 位置 attribute
+ 色彩 attribute
+ 不得干扰导向 properNoun
+ 事故疏散 attribute
+ 服务乘客 properNoun
+ 标志 properNoun
+站台门 constructionElement
+ 车站 building
+ 车站轨道区 spaceORlocation
+ 吸声处理 properNoun
+ 有噪声源 properNoun
+ 房间 spaceORlocation
+ 隔声 attribute
+ 吸声措施 constructionElement
+地面 spaceORlocation
+ 高架车站 building
+ 噪声 attribute
+ 振动 attribute
+ 综合防治措施 constructionElement
+ 声屏障 properNoun
+ 功能 attribute
+ 城市景观 attribute
+ 要求 workingAchievement

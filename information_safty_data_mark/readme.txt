@@ -1,0 +1,7 @@
+两种BIO标注的代码
+BIO_POS和bio_label
+
+
+1.divid中有两种划分数据集的代码，divide和split  最终选用divide划分的数据  保存在divide_data中
+2.对divide_data文件以第一个空格划分保存在remove_blank文件夹中
+3.对remove_blank文件夹中文件进行BIO标注保存在new_marked中
